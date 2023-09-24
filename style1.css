@@ -1,0 +1,25 @@
+/* p{
+    background-color: aqua;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+}
+div{
+    background-color: aqua;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+} */
+.text{
+    background-color: aqua;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: auto;
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+}
+
+/* margin: auto; use follow body or screen, it mean put border to centre of body*/
